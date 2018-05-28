@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms Learnt so far by me
+Programming questions attempted so far by me
